@@ -28,7 +28,7 @@
     "index.js"
   ],
   "dependencies": {
-    "csscomb": "^4.2.0",
+    "csscomb": "https://github.com/csscomb/csscomb.js",
     "gulp-util": "^3.0.7",
     "through2": "^2.0.1"
   },
